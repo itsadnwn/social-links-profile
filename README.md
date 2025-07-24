@@ -10,8 +10,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><img width="600" src="resources/images/desktop-version.png" /></td>
-      <td><img width="600" src="resources/images/active-state.png" /></td>
+      <td><img width="550" src="resources/images/desktop-version.png" /></td>
+      <td><img width="550" src="resources/images/active-state.png" /></td>
       <td><img width="250" src="resources/images/mobile-version.png" /></td>
     </tr>
   </tbody>
